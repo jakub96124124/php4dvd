@@ -157,9 +157,9 @@ define("VIDEO",										"Video");
 define("COUNTRY",									"Země");
 define("GENRES",									"Žánry");
 define("MPAA",										"MPAA");
-define("DIRECTOR",									"Ředitel");
+define("DIRECTOR",									"Režisér");
 define("WRITER",									"Spisovatel");
-define("PRODUCER",									"Výrobce");
+define("PRODUCER",									"Producent");
 define("MUSIC",										"Zvuk");
 define("CAST",										"Obsazení");
 // Automatic update
@@ -226,6 +226,6 @@ define("DATABASE_NEW_TEXT",							"Nová verze databáze bude nainstalována. Ja
 define("DATABASE_UPGRADE_TEXT",						"Vaše databáze bude upgradována na nejnovější verzi. Nebudou odstraněny žádné informace (nejdříve je možné udělat zálohu!)");
 define("ACCEPT",									"Přijímám");
 define("FINISHED",									"Dokončeno");
-define("FINISHED_TEXT",								"nstalace je téměř hotová. Klikněte na konečné tlačítko níže.");
+define("FINISHED_TEXT",								"Instalace je téměř hotová. Klikněte na konečné tlačítko níže.");
 define("FINISH",									"Dokončit");
 ?>
